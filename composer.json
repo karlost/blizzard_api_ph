@@ -20,6 +20,6 @@
     },
   "require": {
     "ext-curl": "*",
-    "ext-redis": "*"
+
   }
 }
